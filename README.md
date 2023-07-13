@@ -27,13 +27,13 @@ sudo dpkg -r gimp
 
 # 6. Нарисовать диаграмму, в которой есть класс родительский класс, домашние животные и вьючные животные, в составы которых в случае домашних животных войдут классы: собаки, кошки, хомяки, а в класс вьючные животные войдут: Лошади, верблюды и ослы). 
 
-![Картинка](diagram.drawio)
+![Картинка](diagram.drawio.png)
  
 
 # Задания 7-12
 
-[my link](file:///C:/my_file.pdf)
+[my link](https://github.com/Luibov052022/ControlWork2/blob/main/Z7-12.sql)
 
 # Задания 13-14
 
-[my link](file:///C:/my_file.pdf)
+[my link](https://github.com/Luibov052022/ControlWork2/tree/main/Java)
