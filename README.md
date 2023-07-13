@@ -30,10 +30,6 @@ sudo dpkg -r gimp
 ![Картинка](diagram.drawio.png)
  
 
-# Задания 7-12
+# [Задания 7-12](https://github.com/Luibov052022/ControlWork2/blob/main/Z7-12.sql)
 
-[my link](https://github.com/Luibov052022/ControlWork2/blob/main/Z7-12.sql)
-
-# Задания 13-14
-
-[my link](https://github.com/Luibov052022/ControlWork2/tree/main/Java)
+# [Задания 13-14](https://github.com/Luibov052022/ControlWork2/tree/main/Java)
